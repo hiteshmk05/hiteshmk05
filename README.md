@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>, I'm Hitesh Makkar</h1>
 
 <p align="center">
   Computer Science Undergrad @ Netaji Subhas University of Technology (NSUT) · Low-level programming · Open source contributor
@@ -33,5 +33,3 @@ JavaScript    Web, scripting
 - Low-level systems & OS internals
 - High-performance computing
 - Open source infrastructure software
-
----
